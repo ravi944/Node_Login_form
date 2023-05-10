@@ -1,0 +1,18 @@
+#eee{
+    border-radius: 25px;
+       border: 2px solid #73AD21;
+       padding: 20px;
+       width: 350px;
+       height: 200px;
+       background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+       border-radius: right;
+       display :block;
+       margin-left: 400px;
+       margin-right: 400px;
+       width:350px;
+       margin-top:190px;
+      
+     }
+     #thrilling{
+        background-color: burlywood;
+          }
